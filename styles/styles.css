@@ -13,3 +13,15 @@ height:auto;
     justify-content: center;
     align-items: center;
 }
+
+.nav_ul li {
+    padding-left: 25px;
+    font-size: 25px;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
