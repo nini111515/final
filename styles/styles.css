@@ -1,0 +1,15 @@
+.img1{
+width: 75px;
+height:auto;
+}
+
+.h1{
+   display: flex;
+
+}
+.nav_ul{
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+}
