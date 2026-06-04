@@ -25,3 +25,23 @@ height:auto;
     margin-bottom: 20px;
     margin-top: 20px;
 }
+.img2{
+    width: 500px;
+    height: 600px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.title{
+    display: flex;
+    margin-left: 700px;
+    font-size: 25px;
+   
+}
+.div5{
+ 
+    display: flex;
+    justify-content: center;
+  
+    margin-bottom: 20px;
+    
+}
