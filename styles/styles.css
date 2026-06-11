@@ -3,6 +3,10 @@ body {
 
 }
 
+.active{
+    color: #5d81d5;
+}
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -95,7 +99,7 @@ height:auto;
       -ms-flex-align: center;
           align-items: center;
 
-    margin-bottom: 500PX;
+    margin-bottom: 90PX;
 }
 
 .section_container {
@@ -416,4 +420,42 @@ height:auto;
   font-family: "ALK Rounded Mtav Med", sans-serif;
   letter-spacing: 1.5px;
   margin-top: 10px;
+}
+.cakes {
+    width: 100%;
+    height: 800px;
+}
+    
+.relative{
+    position: relative;
+    width: 100%;
+    height: 800px;
+}
+
+.relative p{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.relative a{
+    width: 100%;
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    color: white;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
 }
